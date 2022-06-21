@@ -141,7 +141,7 @@ chatb8 : "Made By @szteambots..."
 chatb9 : "Kubwereza..."
 chatb10 : "Chat bot yathandizidwa ✅."
 chatb11 : "Chat bot Yatsegulidwa Kale Mumacheza Awa"
-6
+
 #plugin - connection.py
 connection1 : "Ndiwe admin osadziwika. Gwiritsani ntchito / gwirizanitsani {} mu PM"
 connection2 : "Lowani mumpangidwe wolondola!\n\n/connect groupid\n\nPezani id ya Gulu lanu powonjezera bot ku gulu lanu ndikugwiritsa ntchito < kodi>/id"
